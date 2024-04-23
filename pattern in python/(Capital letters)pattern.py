@@ -1,10 +1,9 @@
-# Write a program to print the following .
 """
 A
-BC
-DEF
-GHIJ
-KLMNO
+B C
+D E F
+G H I J
+K L M N O
 """
 def num(n):
     num = 1
