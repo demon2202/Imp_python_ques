@@ -1,9 +1,9 @@
 """
 A
-BB
-CCC
-DDDD
-EEEEE
+B B
+C C C
+D D D D
+E E E E E
 """
 def alphapat(n):
     num = 65
